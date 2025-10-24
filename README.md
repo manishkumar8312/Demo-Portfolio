@@ -32,7 +32,7 @@ Live Demo: [your-portfolio-link.com](https://your-portfolio-link.com)
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/your-username/Demo-portfolio.git
 
 
 ## 🤝 Let's Connect
