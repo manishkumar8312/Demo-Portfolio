@@ -9,7 +9,7 @@ Welcome to my portfolio! This project showcases who I am, what I do, and the pro
 * **Styling:** Tailwind CSS / Bootstrap / Custom CSS
 * **Deployment:** Vercel / GitHub Pages / Netlify
 
-## 📂 Sections
+## Sections
 
 * **Home:** A brief intro and call-to-action
 * **About Me:** My background, interests, and skills
@@ -17,10 +17,6 @@ Welcome to my portfolio! This project showcases who I am, what I do, and the pro
 * **Skills:** Technologies I’ve worked with
 * **Contact:** Ways to reach out to me
 
-## 📸 Preview
-
-*(Add a screenshot or a link to a live preview)*
-Live Demo: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ## ✨ Features
 
