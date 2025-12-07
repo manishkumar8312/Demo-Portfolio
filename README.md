@@ -1,10 +1,9 @@
 
-# 🧑‍💻 My Developer Portfolio
+# My Developer Portfolio
 
 Welcome to my portfolio! This project showcases who I am, what I do, and the projects I've worked on. It's built to reflect my personality, skill set, and growth as a developer.
 
-## 🚀 Tech Stack
-
+##  Tech Stack
 * **Frontend:** HTML, CSS, JavaScript
 * **Frameworks:** React.js / Next.js *(optional, if used)*
 * **Styling:** Tailwind CSS / Bootstrap / Custom CSS
